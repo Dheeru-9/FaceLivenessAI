@@ -1,9 +1,9 @@
-# 👁️ FaceGuard AI
+# 👁️  FaceLiveness AI
 ### AI-Powered Face Recognition and Anti-Spoofing Attendance System
 
 ## 📌 Project Overview
 
-FaceGuard AI is a Python-based attendance management system that combines face recognition, AI-based anti-spoofing, and eye-blink detection to automate employee attendance.
+FaceLiveness AI is a Python-based attendance management system that combines face recognition, AI-based anti-spoofing, and eye-blink detection to automate employee attendance.
 
 The system processes live camera footage, detects faces, compares them with registered employee images, and uses the **MiniFASNetV1SE anti-spoofing model obtained from the Hugging Face platform** to help distinguish genuine faces from spoofed presentations, such as photographs shown in front of a camera.
 
@@ -99,7 +99,7 @@ This process enables the application to identify registered employees from live 
 
 ## 🛡️ AI-Based Anti-Spoofing with MiniFASNetV1SE
 
-FaceGuard AI uses the **MiniFASNetV1SE anti-spoofing model**, obtained through the Hugging Face model ecosystem, to analyze face images and help distinguish genuine faces from spoofed presentations.
+FaceLiveness AI uses the **MiniFASNetV1SE anti-spoofing model**, obtained through the Hugging Face model ecosystem, to analyze face images and help distinguish genuine faces from spoofed presentations.
 
 Hugging Face provides a platform where developers can explore and access pre-trained AI models for different tasks, evaluate suitable models, and integrate compatible models into their applications.
 
@@ -289,7 +289,7 @@ The project showcases practical skills in computer vision, deep learning inferen
 
 ---
 
-**Project Name:** FaceGuard AI
+**Project Name:** FaceLiveness AI
 
 **Project Type:** AI-Powered Face Recognition and Anti-Spoofing Attendance System
 
